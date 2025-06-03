@@ -290,7 +290,6 @@ Interested in collaborating or accessing our resources? We welcome partnerships 
 
 <div align="center">
 
-### 🌟 **Star this project if you find it useful!**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/counterinfodem1?style=social)](https://twitter.com/counterinfodem1)
 
